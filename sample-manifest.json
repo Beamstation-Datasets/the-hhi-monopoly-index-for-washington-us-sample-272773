@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e9f8fb07-da2f-48f4-940a-33cb530b2bcd",
+  "id_short": 272773,
+  "published_at": "2026-04-11T19:14:28Z",
+  "repo_name": "the-hhi-monopoly-index-for-washington-us-sample-272773",
+  "sample_asset_name": "beamstation_272773_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/272773/beamstation_272773_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 46,
+  "sample_sha256": "eba329869f66c8eb8846d979019031bda2fecfa69cf8a3501318dbb6a4381646",
+  "sample_size_bytes": 191123,
+  "total_records": 462
+}
