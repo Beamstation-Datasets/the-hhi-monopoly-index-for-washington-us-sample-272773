@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Washington, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `272773` |
 | Location | Washington |
 | Category | Restaurants |
-| Full dataset size | 341 records |
-| Free sample size | 34 records (9.97%) |
-| Last export | 2026-04-22T12:48:13.044488+00:00 |
+| Full dataset size | 427 records |
+| Free sample size | 42 records (9.84%) |
+| Last export | 2026-04-29T13:41:48.315038+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-washington-us-sample-272773/releases/download/sample-latest/beamstation_272773_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
